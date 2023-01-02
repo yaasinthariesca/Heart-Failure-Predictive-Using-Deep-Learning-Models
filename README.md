@@ -1,5 +1,7 @@
 # Heart-Failure-Predictive-Using-Deep-Learning-Models
-Implementation of Deep Learning to Predict Mortality Caused by Heart Failure
+**Implementation of Deep Learning to Predict Mortality Caused by Heart Failure**
+
+![Picture1](https://user-images.githubusercontent.com/121779270/210231899-0cdedc23-f98e-4584-800c-1cf072f70725.png)
 
 Portfolio assignments of Deep Learning Course : BISA AI Platform
 
